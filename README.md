@@ -1,1 +1,1 @@
-# Digital-temperature-controller--Shantha
+# Smart Irrigation system-Shantha
